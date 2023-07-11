@@ -1,4 +1,7 @@
 hello, friend
+bay
+hello
+>>>>>>> d71ecdaa2215dc018ffef5b0b88f9559435b808e
 555
 third line
 a new line
