@@ -1,6 +1,6 @@
 next
 bay
-hello
+hello, friend
 555
 third line
 a new line
